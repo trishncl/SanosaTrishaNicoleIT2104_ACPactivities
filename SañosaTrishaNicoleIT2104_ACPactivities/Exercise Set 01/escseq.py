@@ -3,6 +3,4 @@ for x in multiple:
     if x % 2 != 0:
      print(x)
     else:
-     print('\t', x)
-
-    
+     print('\t', x) 
