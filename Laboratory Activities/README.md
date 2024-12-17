@@ -176,7 +176,7 @@ This program prompts the user to input a size and elements of a double array `ar
 ---
 
 ## 🚀 Conclusion
-This repository demonstrates fundamental programming concepts through various laboratory activities. I hope you find these programs useful, both for learning and inspiration.
+This repository demonstrates fundamental programming concepts through various laboratory activities. I hope you find these programs useful, both for learning and inspiration. If you encounter an error, take it as a sign that you're learning and growing.
 
 > 📌 **Note**: Always remember to follow the code conventions, and observe proper naming of variables.
 
